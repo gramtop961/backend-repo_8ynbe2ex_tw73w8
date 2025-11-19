@@ -1,19 +1,15 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [363] using StatReload
-INFO:     Started server process [365]
+INFO:     Started reloader process [407] using StatReload
+INFO:     Started server process [409]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:36294 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:36300 - "GET /api/conversations HTTP/1.1" 200 OK
-INFO:     172.20.0.1:36300 - "GET /api/conversations HTTP/1.1" 200 OK
-INFO:     172.20.0.1:36314 - "GET /api/conversations/9b50120c-edb3-4b18-aadd-70c69f6a215a/messages HTTP/1.1" 200 OK
-INFO:     172.20.0.1:36314 - "GET /api/conversations/9b50120c-edb3-4b18-aadd-70c69f6a215a/messages HTTP/1.1" 200 OK
-INFO:     172.20.0.1:36300 - "GET /api/conversations HTTP/1.1" 200 OK
-INFO:     172.20.0.1:36300 - "GET /api/conversations HTTP/1.1" 200 OK
-INFO:     172.20.0.1:36300 - "GET /api/conversations/9b50120c-edb3-4b18-aadd-70c69f6a215a/messages HTTP/1.1" 200 OK
-INFO:     172.20.0.1:36300 - "GET /api/conversations/9b50120c-edb3-4b18-aadd-70c69f6a215a/messages HTTP/1.1" 200 OK
-INFO:     172.20.0.1:40970 - "GET /api/conversations HTTP/1.1" 200 OK
-INFO:     172.20.0.1:40970 - "GET /api/conversations HTTP/1.1" 200 OK
-INFO:     172.20.0.1:40970 - "GET /api/conversations/9b50120c-edb3-4b18-aadd-70c69f6a215a/messages HTTP/1.1" 200 OK
-INFO:     172.20.0.1:40970 - "GET /api/conversations/9b50120c-edb3-4b18-aadd-70c69f6a215a/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53852 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:53862 - "GET /api/conversations HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53862 - "GET /api/conversations HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53870 - "GET /api/conversations/9b50120c-edb3-4b18-aadd-70c69f6a215a/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53870 - "GET /api/conversations/9b50120c-edb3-4b18-aadd-70c69f6a215a/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47880 - "GET /api/conversations HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47880 - "GET /api/conversations HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47892 - "GET /api/conversations/9b50120c-edb3-4b18-aadd-70c69f6a215a/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47892 - "GET /api/conversations/9b50120c-edb3-4b18-aadd-70c69f6a215a/messages HTTP/1.1" 200 OK
